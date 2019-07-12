@@ -4,7 +4,7 @@ function takeANumber(katzDeli, newCustomer){
   
   
   
-  return `Welcome ${newCustomer}. You are number ${katzDeli} in line.`
+
 }
 
 function nowServing (katzDeliLine){

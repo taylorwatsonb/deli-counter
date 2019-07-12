@@ -1,10 +1,10 @@
 `var katzDeliLine = [];`
 
-function takeANumber(line, name){
+function takeANumber(katzDeli, newCustomer){
   
   
   
-  return `Welcome ${name}. You are number 1 in line.`
+  return `Welcome ${newCustomer}. You are number ${katzDeli} in line.`
 }
 
 function nowServing (katzDeliLine){

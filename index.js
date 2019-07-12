@@ -7,7 +7,7 @@ function takeANumber(katzDeli, newCustomer){
      return ('Welcome, ' + newCustomer + '. You are number ' + katzDeli.length + ' in line.')
   }
 
-function nowServing ('Ada'){
+function nowServing (){
   
   if (line.length === 0){
     return 'There is nobody waiting to be served!'
